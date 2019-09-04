@@ -6,9 +6,7 @@ import "antd/dist/antd.css";
 
 const App = () => {
     return (
-        <Router>
-            <Route exact path="/" component={PageExample} />
-        </Router>
+       <div>Hello Goo-React</div>
     )
 }
 
